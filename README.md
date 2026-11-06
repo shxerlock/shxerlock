@@ -6,4 +6,10 @@ I focus on breaking and securing systems, conducting penetration testing, and bu
 
 I also specialize in advanced AI prompt engineering, using precise commands and automated workflows to accelerate technical development and problem-solving.
 
-Check out my work: [shxerlock.site](https://shxerlock.site/)
+### Connect
+
+- 💬 **Discord** — [discord.gg/Hr2D7h98H7](https://discord.gg/Hr2D7h98H7)
+- 🐙 **GitHub** — [@shxerlock](https://github.com/shxerlock/)
+- 📷 **Instagram** — [@piratessocials](https://www.instagram.com/piratessocials)
+- ✉️ **Email** — [shxerlock@proton.me](mailto:shxerlock@proton.me)
+- 🌐 **Web** — [shxerlock.site](https://shxerlock.site/)
